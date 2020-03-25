@@ -1,0 +1,21 @@
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.pdb
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Form1.resources
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Properties.Resources.resources
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.exe
+C:\Users\murat\Desktop\ \Yeni klasör\Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.exe
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.exe
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\65 Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.csproj.GenerateResource.Cache
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.exe
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\bin\Debug\Alan Hesapla.pdb
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Form1.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan_Hesapla.Properties.Resources.resources
+G:\03 - Cloud\05 - Github - Akademi\06 - C# Ücretli Projeler\04 - Geometrik Alan Hesapla\Alan Hesapla\obj\x86\Debug\Alan Hesapla.csproj.GenerateResource.Cache
